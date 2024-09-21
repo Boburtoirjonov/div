@@ -1,0 +1,29 @@
+*{ 
+    box-sizing: border-box;
+}
+span{
+    background-color: blueviolet;
+    
+    
+
+}
+
+div{
+    background-color: darkmagenta;
+    margin-top: 1%;
+}
+.box{
+    background-color: blue;
+    display: inline-block;
+    height: 50px;
+}
+.href{
+    background-color: darkorchid;
+    display: inline-block;
+    
+    
+}
+.text{
+    background-color: darkmagenta;
+    margin-top: 3%;
+}
